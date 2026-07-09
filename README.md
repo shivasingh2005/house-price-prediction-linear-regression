@@ -244,13 +244,13 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Abhinay Singh**
+**Shiva Singh**
 
 B.Tech Computer Science & Engineering (AI/ML)
 
 Galgotias University
 
-GitHub: https://github.com/Abhinay1769
+GitHub: https://github.com/shivasingh2005
 
 ---
 
